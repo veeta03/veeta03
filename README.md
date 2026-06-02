@@ -5,7 +5,7 @@ Software Developer • Machine Learning Enthusiast • CSE Undergraduate
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Software+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Frontend+Web+Developer;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Software+Developer;Machine+Learning+Enthusiast;+CSE+Undergraduate;Frontend+Web+Developer;Always+Learning+New+Things" />
 </p>
 
 
