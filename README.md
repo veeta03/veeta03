@@ -8,11 +8,7 @@ Software Developer • Machine Learning Enthusiast • CSE Undergraduate
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&center=true&width=700&lines=Software+Developer;Machine+Learning+Enthusiast;Java+%7C+Python+Developer;Frontend+Web+Developer;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge" />
-</p>
 
----
 
 ## 🚀 About Me
 
